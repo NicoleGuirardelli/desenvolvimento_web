@@ -1,0 +1,118 @@
+body {
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+main {
+    background-color: #f2f3e8;
+    margin: 30px;
+    margin-bottom: 0px;
+    padding: 20px;
+    border: 2px solid #d9c518;
+    border-radius: 12px;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #D93817, #84473A);
+    padding: 30px;
+    border-radius: 12px 12px 0px 0px;
+
+}
+header a{
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Barrio";
+    color: hsla(0, 0%, 100%, 0.979)
+}
+
+h2,
+h3 {
+    font-family: "Tourney", sans-serif;
+    color:#ee9612d0
+}
+
+p {
+    text-align: left;
+}
+
+#exemplos {
+    border-style: outset;
+    border-color: #d9c518;
+    color: #301611;
+    border-radius: 12px;
+    margin: 20px;
+    padding: 33px;
+}
+#exemplos a {
+   color: #d93817;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 30px;
+
+
+}
+
+/* centralizar imagem e redimencionar tamanho */
+img {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.conteudo {
+    margin: 30px;
+    border: 3px solid #8a473a;
+    border-radius: 17px;
+    padding: 32px;
+    /* margin-bottom: 20px; */
+
+}
+
+#harry {
+    background-color: #f4e9d0;
+    border: 33px solid #8a473a31;
+    border-radius: 18px;
+}
+
+#harry h2 {
+    color: #8a473a;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+#harry p {
+    margin: 16px 24px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+#harry a{
+   color: #d93817;
+   font-weight: bold;
+}
+
+footer {
+    background-color: #d93817;
+    color: #ffffff;
+    border-top: 2px solid #8a473a;
+    padding: 20px 62px;
+    border-radius: 0px 0px 12px 12px;
+
+}
+
+#rodape {
+    margin: 0;
+    text-align: center;
+}
